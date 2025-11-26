@@ -10,7 +10,7 @@ It evaluates pages based on expert principles such as Radical Clarity, Cognitive
 
 *   **Multi-Modal Analysis:** Unlike standard text analyzers, this workflow uses **Google Gemini Pro** to "see" the landing page via a screenshot, allowing it to critique design, whitespace, and visual hierarchy alongside the copy.
 *   **Full-Page Scraping:** Utilizes **Firecrawl** to capture both the raw markdown content and a full-page screenshot of the target URL.
-*   **Structured Element Extraction:** Uses **OpenAI (GPT-4o Mini)** to parse the page and isolate critical elements like the Hero Headline, Value Proposition, Credibility Statements, and Call-to-Action (CTA) microcopy.
+*   **Structured Element Extraction:** Uses **OpenAI (GPT-4.1 Mini)** to parse the page and isolate critical elements like the Hero Headline, Value Proposition, Credibility Statements, and Call-to-Action (CTA) microcopy.
 *   **Expert CRO Framework:** The AI evaluates the page against specific principles:
     *   **Radical Clarity:** Can the offer be understood in 5 seconds?
     *   **Singular Focus:** Is the path to conversion distraction-free?
