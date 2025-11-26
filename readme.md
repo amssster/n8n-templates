@@ -161,3 +161,10 @@ An AI agent that analyzes Google's AI Overviews to provide actionable content re
 - Generates copy-paste recommendations for titles, meta descriptions, and body content.
 - Helps increase the chance of your content being used as a source in AI-generated answers.
 - [Learn More](./ai-overview-optimizer/readme.md) | [Demo](https://youtu.be/sMznan79ox8?si=ODZBPA42mbz3z8sz)
+
+### 10. AI-Powered Landing Page CRO Analyzer
+specialized Conversion Rate Optimization (CRO) agent that conducts a comprehensive audit of any landing page.
+- Analyzes any landing page.
+- Generates recommendations for improving layout and content.
+- Sends the report directly via Gmail.
+- [Learn More](./landing-page-analyzer/readme.md)
